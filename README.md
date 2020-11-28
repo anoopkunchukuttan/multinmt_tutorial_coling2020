@@ -11,7 +11,7 @@ This repository contains material for the COLING 2020 tutorial on _Multilingual 
 
 ## Venue 
 
-The 28th International Conference on Computational Linguistics (COLING 2020)
+The 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org))
 
 12 December 2020 (1:30-5:00pm UTC)
 
