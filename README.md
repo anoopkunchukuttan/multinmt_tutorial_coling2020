@@ -6,7 +6,7 @@ This repository contains material for the COLING 2020 tutorial on _Multilingual 
 ## Instructors
 
 - [Raj Dabre](https://prajdabre.wixsite.com/prajdabre), Researcher, NICT, Japan. 
-- [Chenhui Chu](), Associate Professor, Kyoto University, Japan. 
+- [Chenhui Chu](http://researchmap.jp/chu/?lang=en), Associate Professor, Kyoto University, Japan. 
 - [Anoop Kunchukuttan](http://anoopk.in), Senior Applied Researcher, Microsoft, India. 
 
 ## Venue 
