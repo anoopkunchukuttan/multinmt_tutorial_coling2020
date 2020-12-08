@@ -22,5 +22,5 @@ Online Conference
 - Slides: [download]()
 - Survey Paper at ACM Computing Surveys: [pdf](https://dl.acm.org/doi/pdf/10.1145/3406095)
 - Bibliography: [pdf](mnmt_bibliography.pdf)
-- Video: [view]()
+- Video: [view](https://www.youtube.com/watch?v=BdZeN-6TYzs)
 
