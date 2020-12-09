@@ -19,7 +19,7 @@ Online Conference
 
 ## Tutorial Material
 
-- Slides: [pdf](https://github.com/anoopkunchukuttan/multinmt_tutorial_coling2020/blob/main/Multilingual%20Neural%20Machine%20Translation.pdf)
+- Slides: [pdf](mnmt_tutorial_slides.pdf)
 - Survey Paper at ACM Computing Surveys: [pdf](https://dl.acm.org/doi/pdf/10.1145/3406095)
 - Bibliography (_updated till Nov 2020_): [pdf](mnmt_bibliography.pdf)
 - Video: [view](https://www.youtube.com/watch?v=BdZeN-6TYzs)
